@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>032B5F36-7F54-4744-8CFD-10D7F9A61EB2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cr8event</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B34DE27D-EF02-4E67-86A1-FDB36521473F</key>
+		<string>https://github.com/csliphone/CreateEvent.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cr8event.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B34DE27D-EF02-4E67-86A1-FDB36521473F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/csliphone/CreateEvent.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B34DE27D-EF02-4E67-86A1-FDB36521473F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B34DE27D-EF02-4E67-86A1-FDB36521473F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CreateEvent</string>
+		</dict>
+	</array>
+</dict>
+</plist>
